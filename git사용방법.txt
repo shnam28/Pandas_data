@@ -1,0 +1,26 @@
+1. git 공유할 폴더를 만든다 .
+2. 폴더 오른쪽 마우스 클릭후 git Bash here 클릭 => 터머널창 뜸 
+3. 
+
+git 초기화 
+>>git init 
+
+github와 원도우즈 공유폴더 연결하기 
+>>git remote add origin https://github.com/shnam28/Pandas_data.git
+
+
+해당폴더에서 모든 자료 업로드 한다. 
+git pull origin master 
+
+github와 로컬폴더 
+git status 
+
+
+github와 
+
+
+git status 
+git add .
+git commit -m "first commit"
+git push origin master 
+
